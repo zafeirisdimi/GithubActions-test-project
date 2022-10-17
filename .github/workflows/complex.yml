@@ -1,6 +1,7 @@
 name: Complex workflow
-on: 
-  push:
+
+on: push
+
 jobs:
  ubuntu:
     runs-on: ubuntu-latest
