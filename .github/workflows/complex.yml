@@ -1,0 +1,27 @@
+name: Complex workflow in diffrerent OS (linux ubuntu,windows, mac os)
+on: 
+  push:
+jobs:
+ ubuntu:
+ name: Ubuntu job
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Step one
+    - run: date
+ windows:
+  name: Second job
+    runs-on: windows-latest
+    steps: 
+    - name: Step one
+    - run: date
+ macos:
+    runs-on: macos-latest
+    steps: 
+    - name: Step one
+    - run: date
+ depends:
+    needs: [ubuntu,windows,macos]
+    runs-on: macos-latest
+   steps: 
+    - name: Step one
+    - run: date
