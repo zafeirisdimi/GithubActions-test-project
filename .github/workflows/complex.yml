@@ -6,7 +6,6 @@ jobs:
  ubuntu:
     runs-on: ubuntu-latest
     steps: 
-    - name: Step one
     - run: date
  windows:
     runs-on: windows-latest
