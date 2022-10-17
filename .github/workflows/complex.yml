@@ -1,4 +1,4 @@
-name: Complex workflow in diffrerent OS (linux ubuntu,windows, mac os)
+name: Complex workflow
 on: 
   push:
 jobs:
