@@ -9,13 +9,11 @@ jobs:
     - run: date
  windows:
     runs-on: windows-latest
-    steps: 
-    - name: Step one
+    steps:
     - run: date
  macos:
     runs-on: macos-latest
     steps: 
-    - name: Step one
     - run: date
  depends:
     needs: [ubuntu,windows,macos]
