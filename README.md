@@ -64,6 +64,7 @@ Designed for human interaction, YAML is a strict superset of JSON, another data 
 - Jetkins
 
 ## Useful resources ##
-- [Getting started with Actions](https://morioh.com/p/aadcfe6cac57)
-- [Yaml for beginner](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
+- [Getting started with Actions| Morioh](https://morioh.com/p/aadcfe6cac57)
+- [Yaml for beginner | CircleCi](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
+- [The IDEAL & Practical CI / CD Pipeline - Concepts Overview | Youtube](https://www.youtube.com/watch?v=OPwU3UWCxhw&t=1s)
 
