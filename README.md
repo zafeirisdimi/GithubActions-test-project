@@ -39,13 +39,22 @@ YAML is a digestible data serialization language often used to create configurat
 
 Designed for human interaction, YAML is a strict superset of JSON, another data serialization language. But because it’s a strict superset, it can do everything that JSON can and more. One major difference is that newlines and indentation actually mean something in YAML, as opposed to JSON, which uses brackets and braces.
  
-- Other important segments about this yaml file and Github actions?
+- Important segments about this yaml file and Github actions?
 
   Events
   Jobs
   Runners
   Steps
   Actions
+  
+  - Other alternative popular CI/CD platforms
+  
+  1.Jetkins
+  2.Travis CI
+  3.Circle CI
+  4.Drone CI
+  5.Bamboo
+  
 
 
 ## Tech ##
@@ -55,5 +64,6 @@ Designed for human interaction, YAML is a strict superset of JSON, another data 
 - Jetkins
 
 ## Useful resources ##
-- [morioh](https://morioh.com/p/aadcfe6cac57)
+- [Getting started with Actions](https://morioh.com/p/aadcfe6cac57)
+- [Yaml for beginner](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
 
