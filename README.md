@@ -1,8 +1,18 @@
-# Github Actions-test-project#
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This repository is used to provide a test project for the Github Actions library.
 
-## FAQs about Github Actions ##
+<div align="center">
+  <img src="https://img2.storyblok.com/672x0/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png" />
+  </div>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Github Actions-test-project #
+
+
+
+## FAQs ##
 - What are Github Actions ? 
 
 GitHub Actions is a CI/CD and general automation system introduced by GitHub in 2018. It is integrated right into GitHub and enabled by default in every GitHub repository. GitHub Actions is completely free of charge.
@@ -65,6 +75,6 @@ Designed for human interaction, YAML is a strict superset of JSON, another data 
 
 ## Useful resources ##
 - [Getting started with Actions| Morioh](https://morioh.com/p/aadcfe6cac57)
-- [Yaml for beginner | CircleCi](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
+- [Yaml file for beginner | CircleCi](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
 - [The IDEAL & Practical CI / CD Pipeline - Concepts Overview | Youtube](https://www.youtube.com/watch?v=OPwU3UWCxhw&t=1s)
 
