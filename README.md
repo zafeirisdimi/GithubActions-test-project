@@ -14,6 +14,10 @@ GitHub Actions is a CI/CD and general automation system introduced by GitHub in 
 
 - What is a CI/CD pipeline?
 
+<div align="center">
+<img  src="https://miro.medium.com/max/1400/1*bceEG8JBhgjnMoZCGXHb2Q.png" alt='Image on Miro' width="500" height="auto" />
+</div>
+
 A CI/CD pipeline is the full set of processes that run when you trigger work on your projects. Pipelines encompass your workflows, which coordinate your jobs, and this is all defined in your project configuration file.
 
 - How do i create an Github Action? 
@@ -29,8 +33,19 @@ Steps:
 7) We notice that below the title of action, there is a blinked circle icon with yellow. It means that our action is tested if it is correct.
 8) If our action run without error, the blinked circle icon will be green check icon. Otherwise, the blinked circle icon will be red icon.
 
-- Why to use them ? 
-- How to use them ? 
+- What kind of language is this yml file?
+
+YAML is a digestible data serialization language often used to create configuration files with any programming language.
+
+Designed for human interaction, YAML is a strict superset of JSON, another data serialization language. But because it’s a strict superset, it can do everything that JSON can and more. One major difference is that newlines and indentation actually mean something in YAML, as opposed to JSON, which uses brackets and braces.
+ 
+- Other important segments about this yaml file and Github actions?
+
+  Events
+  Jobs
+  Runners
+  Steps
+  Actions
 
 
 ## Tech ##
