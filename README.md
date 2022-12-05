@@ -1,18 +1,22 @@
+[![GitHub Actions Demo](https://github.com/zafeirisdimi/GithubActions-test-project/actions/workflows/github-actions-demo.yml/badge.svg?branch=main)](https://github.com/zafeirisdimi/GithubActions-test-project/actions/workflows/github-actions-demo.yml)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <div align="center">
-  <img src="https://img2.storyblok.com/672x0/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png" />
+  <img src="https://img2.storyblok.com/672x0/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png" width="600"/>
   </div>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Github Actions-test-project #
 
 
 
 ## FAQs ##
+
 - What are Github Actions ? 
 
 GitHub Actions is a CI/CD and general automation system introduced by GitHub in 2018. It is integrated right into GitHub and enabled by default in every GitHub repository. GitHub Actions is completely free of charge.
@@ -57,14 +61,16 @@ Designed for human interaction, YAML is a strict superset of JSON, another data 
   Steps
   Actions
   
-  - Other alternative popular CI/CD platforms
+  - Other alternative popular CI/CD platforms 
   
-  1.Jetkins
-  2.Travis CI
-  3.Circle CI
-  4.Drone CI
-  5.Bamboo
-  
+  <ol>
+    <li>Jetkins</li>
+    <li>Travis CI</li>
+    <li>Circle CI</li>
+    <li>Drone CI</li>
+    <li>Bamboo</li>
+ 
+  </ol>
 
 
 ## Tech ##
@@ -74,6 +80,7 @@ Designed for human interaction, YAML is a strict superset of JSON, another data 
 - Jetkins
 
 ## Useful resources ##
+
 - [Getting started with Actions| Morioh](https://morioh.com/p/aadcfe6cac57)
 - [Yaml file for beginner | CircleCi](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
 - [The IDEAL & Practical CI / CD Pipeline - Concepts Overview | Youtube](https://www.youtube.com/watch?v=OPwU3UWCxhw&t=1s)
